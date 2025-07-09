@@ -1,7 +1,5 @@
-## Hi there 👋, I'm Pheaktra SROS
-
-<!--
- I am a dedicated technology enthusiast with a strong passion for building, learning, and solving complex problems through coding. My commitment to continuous improvement and exploration in this field drives my contributions and innovations. I think, therefore I am.
+# Hi there 👋, I'm Pheaktra SROS
+🎯I am a dedicated technology enthusiast with a strong passion for building, learning, and solving complex problems through coding. My commitment to continuous improvement and exploration in this field drives my contributions and innovations. I think, therefore I am.
 
 
 ## 💻 About Me
