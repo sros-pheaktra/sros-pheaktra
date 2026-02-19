@@ -48,7 +48,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn]([https://img.shields.io/badge/LindedIN-D14836?style=for-the-badge&logo=linkedin&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png))](https://www.linkedin.com/in/pheaktra-sros-6a8ab7373)
+[![LinkedIn]([https://img.shields.io/badge/LindedIN-D14836?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/pheaktra-sros-6a8ab7373)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pheaktrasros.dev@gmail.com)
 
