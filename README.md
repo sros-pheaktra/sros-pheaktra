@@ -47,7 +47,7 @@
 ![Pheaktra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sros-pheaktra&show_icons=true&theme=github_dark)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pheaktra-sros-6a8ab7373)
+[![LinkedIn](https://tse4.mm.bing.net/th/id/OIP.1R2nLh9Gdbpa75yVbtTFYgHaHY?cb=defcachec2&rs=1&pid=ImgDetMain&o=7&rm=3)](https://www.linkedin.com/in/pheaktra-sros-6a8ab7373)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pheaktrasros.dev@gmail.com)
 
