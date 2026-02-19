@@ -4,7 +4,7 @@
 
 ## 💻 About Me
 - 🔭 I’m currently studying **Software Development** at **American University of Phnom Penh**
-- 🌱 I’m focusing on **Java**, **Python**, **CSS** and **JavaScript**
+- 🌱 I’m focusing on **Java**, **Python**, and **JavaScript**
 - 💡 I enjoy working on real-world projects like web apps and automation tools
 - 🎯 My goal is still uncertain, I want to become a skilled **mobile app developer** and also a skilled **full-stack web developer**
 - 📚 Always eager to learn something new in tech & design
