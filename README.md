@@ -44,7 +44,8 @@
 
 ## 📊 GitHub Stats
 
-![Pheaktra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sros-pheaktra&show_icons=true&theme=github_dark)
+![Pheaktra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sros-pheaktra&show_icons=true&theme=github_dark&count_private=true)
+
 
 
 ## 📫 Connect with Me
