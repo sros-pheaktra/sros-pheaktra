@@ -50,7 +50,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LindedIN-D14836?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pheaktra-sros-6a8ab7373)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pheaktrasors.devl@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pheaktrasros.dev@gmail.com)
 
 ---
 
