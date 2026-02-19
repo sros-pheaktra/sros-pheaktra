@@ -48,7 +48,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pheaktra%20Sros-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pheaktra-sros-6a8ab7373)
+[![LinkedIn](https://img.shields.io/badge/LindedIN-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/pheaktra-sros-6a8ab7373)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pheaktrasors.devl@gmail.com)
 
