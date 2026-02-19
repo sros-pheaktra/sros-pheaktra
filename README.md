@@ -50,9 +50,9 @@
 <a href="https://www.linkedin.com/in/pheaktra-sros-6a8ab7373">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pheaktrasros.dev@gmail.com)
-
+<a href="mailto:pheaktrasros.dev@gmail.com">
+  <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/original/google-mail-gmail-icon-logo-symbol-free-png.png" width="40" />
+</a>
 ---
 
 _Thanks for visiting my profile! Let's build something amazing together._
